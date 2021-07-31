@@ -12,8 +12,11 @@ Each musical instrument has 5 traditional Chinese music excerpts, so there are 5
 Each music excerpt is saved as a .wav file. The name of these files follows the format of "x.y.wav", "x" indicates the instrument number, ranging from 1 to 11, and "y" indicates the music number for each instrument, ranging from 1 to 5. These files are recorded by dual channel, and has sampling rate of 44100 Hz. The duration of these music excerpts are between 25 to 280 seconds.
 
 This ChMusic dataset taks 530M and can be download from Baidu Wangpan by link 
+
 pan.baidu.com/s/13e-6GnVJmC3tcwJtxed3-g and password xk23, 
+
 or from google drive 
+
 drive.google.com/file/d/1rfbXpkYEUGw5h_CZJtC7eayYemeFMzij/view?usp=sharing
 
 # Acknowledgment

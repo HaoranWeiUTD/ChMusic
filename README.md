@@ -1,4 +1,4 @@
-# ChMusic
+# ChMusic Baseline
 Baseline solution for Chinese traditional instrument recognition on ChMusic dataset
 KNN_ChMusic.py use MFCCs as feature and KNN as classification model.
 CNN_ChMusic.py use MFCCs as feature and Convolution neural network as classification model.

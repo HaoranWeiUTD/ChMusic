@@ -14,7 +14,6 @@ from mlxtend.plotting import plot_confusion_matrix
 import soundfile as sf
 import librosa
 import os
-import pickle
 import pdb
 
 def spectral_centroid(x, samplerate=44100):

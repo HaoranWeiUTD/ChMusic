@@ -25,7 +25,7 @@ def spectral_centroid(x, samplerate=44100):
 
 if __name__ == "__main__":
     music_path = "G:\DataSet\Music\ChMusic\Musics"
-    # make decision every 5 mimutes
+    # make decision every 5 seconds
     target_clip_length = 5 
     print("Let's start now")
     print(music_path)

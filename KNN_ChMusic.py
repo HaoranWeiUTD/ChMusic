@@ -23,9 +23,10 @@ def spectral_centroid(x, samplerate=44100):
     return np.sum(magnitudes*freqs) / np.sum(magnitudes) # return weighted mean
 
 def test_git():
+    print('123')
     return True
 
-    
+
 if __name__ == "__main__":
     music_path = "G:\DataSet\Music\ChMusic\Musics"
     # make decision every 5 seconds

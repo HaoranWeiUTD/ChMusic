@@ -24,6 +24,7 @@ def spectral_centroid(x, samplerate=44100):
 
 def test_git():
     print('123')
+    print('234')
     return True
 
 
